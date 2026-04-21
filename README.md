@@ -1,2 +1,2 @@
 # BambuLab-AMSControl
-AMSControl dient dazu, Bambu Filament Spulen im AMS trotzdem zu erkennen. Dies funktioniert mit einem Arduino, einem RFID Reader und einem W-Lan Modul. Dazu habe ich noch ein Nummernpad und ein LCD-Display.
+AMSControl is used to detect bambu filament spools in the AMS system. This works with an Arduino, an RFID reader, and a Wi-Fi module. I also have a keypad and an LCD display.
